@@ -1,3 +1,5 @@
+import time
+
 time.sleep(3)
 Print('Hello')
 time.sleep(1)
